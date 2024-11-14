@@ -6,7 +6,7 @@
     "api_chatgpt": "false",
     "chatgpt": "",
     "ip_home_assitant": "http://192.168.0.20:8123",
-    "active_home": "true",
+    "active_home": "false",
     "key_home_assistant": "",
     "key_line_notify": ""
 }
