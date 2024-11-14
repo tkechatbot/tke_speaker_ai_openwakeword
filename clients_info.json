@@ -1,0 +1,16 @@
+[
+    {
+        "client_id": "client1",
+        "subscribe_topics": [
+            "topic/1",
+            "topic/2",
+            "topic/3"
+        ],
+        "publish_topics": [
+            "topic/1/response",
+            "topic/2/response",
+            "topic/3/response"
+        ]
+    }
+  
+]
